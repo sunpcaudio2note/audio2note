@@ -41,7 +41,7 @@ Clinical documentation is a critical but time-consuming task for healthcare prof
 
 The Audio2Note service is built on a decoupled, dual-workflow architecture to ensure security, scalability, and maintainability. An API Gateway workflow handles all external interactions, including authentication, authorization, and rate-limiting, before passing validated jobs to a core processing workflow.
 
-<img src="pic/architecture_diagram.svg" alt="Architecture Diagram" width="600"/>
+<img src="pic/architecture_diagram.svg" alt="Architecture Diagram" width="200"/>
 
 ### User Workflow
 
