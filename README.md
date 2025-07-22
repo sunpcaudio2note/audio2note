@@ -1,4 +1,4 @@
-# ![Service Logo](https://raw.githubusercontent.com/sunpcaudio2note/audio2note/main/docs/website/pic/service-logo.svg) Audio2Note Service
+# Audio2Note Service
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/sunpcaudio2note/audio2note)
 [![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://github.com/sunpcaudio2note/audio2note)
@@ -27,12 +27,15 @@ Clinical documentation is a critical but time-consuming task for healthcare prof
 
 | Technology | Description |
 | :--- | :--- |
-| **Python** | Core backend logic and API development. |
+| **Automatic Speech Recognition (ASR)** | High-accuracy transcription and speaker diarization. |
+| **LLM Fine-Tuning (QLoRA)** | Efficient fine-tuning of language models on custom datasets. |
+| **Custom Dataset Curation** | Development of specialized datasets for clinical documentation. |
+| **Retrieval-Augmented Generation (RAG)** | Enhancing LLM responses with external knowledge bases. |
+| **Advanced AI Prompting** | Chain-of-Thought and Few-Shot techniques for enhanced accuracy. |
+| **Python & LangChain** | Core backend logic and AI orchestration. |
 | **FastAPI** | High-performance web framework for the REST API. |
-| **Docker** | Containerization for consistent development and deployment. |
-| **PostgreSQL** | Robust and scalable database for job and user management. |
-| **LangChain** | Workflow automation for the audio processing pipeline. |
-| **Supabase** | Secure, temporary storage for audio files. |
+| **PostgreSQL & Supabase** | Robust and scalable data and file storage. |
+| **PHP & JavaScript** | Integration with EMR systems and client-side functionality. |
 
 ## Architecture
 
