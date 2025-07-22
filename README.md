@@ -31,7 +31,7 @@ Clinical documentation is a critical but time-consuming task for healthcare prof
 | **FastAPI** | High-performance web framework for the REST API. |
 | **Docker** | Containerization for consistent development and deployment. |
 | **PostgreSQL** | Robust and scalable database for job and user management. |
-| **n8n** | Workflow automation for the audio processing pipeline. |
+| **LangChain** | Workflow automation for the audio processing pipeline. |
 | **Supabase** | Secure, temporary storage for audio files. |
 
 ## Architecture
