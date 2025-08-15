@@ -49,13 +49,19 @@ The Audio2Note service is built on a decoupled, dual-workflow architecture to en
 
 *User selects to upload an audio file or summarize existing notes.*
 
+
+
 ![Step 2: Processing](pic/menu_processing.png)
 
 *The service processes the request in the background.*
 
+
+
 ![Step 3: Review Note](pic/menu_note.png)
 
 *The generated note is ready for review and use.*
+
+
 
 ![Step 4: AI Coding](pic/menu_assessment.png)
 
